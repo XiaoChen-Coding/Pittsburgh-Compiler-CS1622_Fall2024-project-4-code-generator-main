@@ -1,4 +1,4 @@
-- [微信：lambda2024](#微信lambda2024)
+- [WeChat（微信）：lambda2024](#wechat微信lambda2024)
 - [Project 4: Code Generation](#project-4-code-generation)
   - [Description](#description)
   - [Codespace Development Environment](#codespace-development-environment)
@@ -16,7 +16,7 @@
   - [Grading](#grading)
   - [Submission](#submission)
 
-# 微信：lambda2024
+# WeChat（微信）：lambda2024
 
 # Project 4: Code Generation
 
